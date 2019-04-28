@@ -1,5 +1,7 @@
 # Project: Twitter Sentiment Analysis
-Note: Check jupyter notebook not python script (it auto generated from Google Colaboratory)
+- Note: Check jupyter notebook not python script (it auto generated from Google Colaboratory)
+- Download data from: https://s3.amazonaws.com/vikrantinterviewdata/model_data.zip
+- `wget https://s3.amazonaws.com/vikrantinterviewdata/model_data.zip`
 
 ## Few Methods Tried For Sentitment Analysis
 ### 1. Naive Bayes
